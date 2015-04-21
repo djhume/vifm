@@ -1,0 +1,588 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/dave/
+	..
+1418893985
+'b
+	/home/dave/bin/
+	..
+1418893985
+'h
+	/home/dave/
+	..
+1418893985
+'z
+	/home/dave/.vifm
+	..
+1418893985
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/dave
+	Templates
+9
+d/home/dave/Templates
+	..
+0
+d/home/dave
+	Videos
+10
+d/home/dave/Videos
+	..
+0
+d/home/dave
+	bitcoinbook
+11
+d/home/dave/bitcoinbook
+	..
+0
+d/home/dave
+	dogecoin
+13
+d/home/dave/dogecoin
+	..
+0
+d/home/dave
+	hma
+14
+d/home/dave/hma
+	..
+0
+d/home/dave
+	hostsblock
+15
+d/home/dave/hostsblock
+	..
+0
+d/home/dave
+	jffs
+16
+d/home/dave/jffs
+	..
+0
+d/home/dave
+	jffs_backup
+17
+d/home/dave/jffs_backup
+	..
+0
+d/home/dave
+	n66u
+18
+d/home/dave/n66u
+	..
+0
+d/home/dave
+	nfs
+19
+d/home/dave/nfs
+	..
+0
+d/home/dave
+	octopress
+20
+d/home/dave/octopress
+	..
+0
+d/home/dave
+	pelican
+21
+d/home/dave/pelican
+	..
+0
+d/home/dave
+	pelican-themes
+22
+d/home/dave/pelican-themes
+	..
+0
+d/home/dave
+	pioneer
+23
+d/home/dave/pioneer
+	..
+0
+d/home/dave
+	pkg
+24
+d/home/dave/pkg
+	..
+0
+d/home/dave
+	powerline
+25
+d/home/dave/powerline
+	..
+0
+d/home/dave
+	python
+26
+d/home/dave/python
+	..
+0
+d/home/dave
+	rt-n66u
+27
+d/home/dave/rt-n66u
+	..
+0
+d/home/dave
+	src
+28
+d/home/dave/src
+	..
+0
+d/home/dave
+	syncthing
+29
+d/home/dave/syncthing
+	..
+0
+d/home/dave
+	therion
+30
+d/home/dave/therion
+	..
+0
+d/home/dave
+	tmux
+31
+d/home/dave/tmux
+	..
+0
+d/home/dave
+	vifm
+32
+d/home/dave/vifm
+	..
+0
+d/home/dave
+	vpn
+33
+d/home/dave/vpn
+	..
+0
+d/home/dave
+	wallet_backups
+34
+d/home/dave/wallet_backups
+	doge
+1
+d/home/dave/wallet_backups/doge
+	..
+0
+d/home/dave/wallet_backups
+	doge
+1
+d/home/dave
+	wallet_backups
+34
+d/home
+	dave
+1
+d/
+	bin
+0
+d/bin
+	..
+0
+d/
+	mnt
+11
+d/mnt
+	..
+0
+d/
+	mnt
+11
+d/mnt
+	..
+0
+d/
+	mnt
+11
+d/mnt
+	media
+1
+d/mnt/media
+	books
+3
+d/mnt/media/books
+	..
+0
+d/mnt/media
+	books
+3
+d/mnt
+	media
+1
+d/mnt/media
+	torrent
+7
+d/mnt/media/torrent
+	incomplete
+2
+d/mnt/media/torrent/incomplete
+	..
+0
+d/mnt/media/torrent
+	watch
+3
+d/mnt/media/torrent/watch
+	..
+0
+d/mnt/media/torrent
+	completed
+1
+d/mnt/media/torrent/completed
+	Prey S01E01 x264 RB58.mp4
+27
+d/mnt/media/torrent
+	..
+0
+d/mnt/media
+	video
+8
+d/mnt
+	media
+1
+d/mnt/media
+	lost+found
+4
+d/mnt
+	media
+1
+d/
+	home
+5
+d/home
+	dave
+1
+d/home/dave
+	Downloads
+4
+d/home/dave/Downloads
+	..
+0
+d/home/dave
+	Sync
+9
+d/home/dave/Sync
+	..
+0
+d/home/dave
+	jffs
+17
+d/home/dave/jffs
+	scripts
+2
+d/home/dave/jffs/scripts
+	..
+0
+d/home/dave/jffs
+	configs
+1
+d/home/dave/jffs/configs
+	..
+0
+d/home/dave/jffs
+	scripts
+2
+d/home/dave/jffs/scripts
+	post-mount
+2
+d/home/dave/jffs
+	scripts
+2
+d/home/dave
+	nfs
+20
+d/home/dave/nfs
+	util
+1
+d/home/dave/nfs/util
+	autonfs.sh
+2
+d/home/dave/nfs
+	util
+1
+d/home/dave
+	jffs_backup
+18
+d/home
+	dave
+1
+d/home/dave
+	Downloads
+4
+d/home/dave/Downloads
+	Belle.E.Sebastien.2013.iTALiAN.MD.BDRip.XviD-BmA.srt
+20
+d
+
+# Right window history (oldest to newest):
+D/home/dave/vifm
+	autom4te.cache
+1
+D/home/dave
+	nfs
+19
+D/home
+	dave
+1
+D/
+	media
+10
+D/media
+	..
+0
+D/
+	mnt
+11
+D/mnt
+	..
+0
+D/
+	media
+10
+D/media
+	dave
+1
+D/media/dave
+	CANON_DC
+1
+D/media/dave/CANON_DC
+	..
+0
+D/media/dave
+	CANON_DC1
+2
+D/media/dave/CANON_DC1
+	
+2
+D/media/dave
+	..
+0
+D/media
+	dave
+1
+D/media/dave
+	CANON_DC
+1
+D/media/dave/CANON_DC
+	..
+0
+D/media/dave
+	CANON_DC
+1
+D/media
+	dave
+1
+D/media/dave
+	CANON_DC1
+2
+D/media/dave/CANON_DC1
+	Trombone Shorty - Say That To Say This 2013 320kbps CBR MP3 [VX] [P2PDL]
+26
+D/media/dave/CANON_DC1/Trombone Shorty - Say That To Say This 2013 320kbps CBR MP3 [VX] [P2PDL]
+	..
+0
+D/media/dave/CANON_DC1
+	Trombone Shorty- (2010) Backatown
+27
+D/media/dave/CANON_DC1/Trombone Shorty- (2010) Backatown
+	..
+0
+D/media/dave/CANON_DC1
+	Trombone Shorty- (2010) Backatown
+27
+D/media/dave/CANON_DC1/Trombone Shorty- (2010) Backatown
+	01 Hurricane season.mp3
+1
+D/media/dave/CANON_DC1
+	roald dahl
+28
+D/media/dave/CANON_DC1/roald dahl
+	..
+0
+D/media/dave/CANON_DC1
+	roald dahl
+32
+D/media/dave
+	CANON_DC1
+2
+D/media/dave/CANON_DC1
+	simon & Garfunkel
+37
+D/media/dave
+	CANON_DC1
+2
+D/media/dave/CANON_DC1
+	talking heads
+49
+D/media/dave
+	..
+0
+D/media
+	..
+0
+D/
+	mnt
+11
+D/mnt
+	photosA
+2
+D/mnt/photosA
+	2014
+11
+D/mnt/photosA/2014
+	102MSDCF
+3
+D/mnt/photosA/2014/102MSDCF
+	102MSDCF
+1
+D/mnt/photosA/2014/102MSDCF/102MSDCF
+	..
+0
+D/mnt/photosA/2014/102MSDCF
+	DSC01582.JPG
+4
+D/mnt/photosA/2014
+	102MSDCF
+3
+D/mnt/photosA
+	2014
+11
+D/mnt/photosA/2014
+	102MSDCF
+3
+D/mnt/photosA/2014/102MSDCF
+	DSC01582.JPG
+16
+D/mnt/photosA/2014
+	102MSDCF
+3
+D/mnt/photosA
+	2014
+11
+D/mnt
+	photosA
+2
+D/
+	media
+10
+D/media
+	dave
+1
+D/media/dave
+	85F0-18FB
+1
+D/media/dave/85F0-18FB
+	eBooks
+8
+D/media/dave/85F0-18FB/eBooks
+	Alice Shanks
+1
+D/media/dave
+	..
+0
+D/media
+	dave
+1
+D/
+	mnt
+11
+D/mnt
+	media
+1
+D/mnt/media
+	torrent
+7
+D/mnt/media/torrent
+	completed
+1
+D/mnt/media/torrent/completed
+	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
+1
+D/mnt/media/torrent/completed/Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
+	..
+0
+D/mnt/media/torrent/completed
+	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
+1
+D/mnt/media/torrent/completed/Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
+	BES-ETRG.nfo
+1
+D/mnt/media/torrent/completed
+	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
+1
+D/mnt/media/torrent
+	completed
+1
+D/mnt/media
+	torrent
+7
+D/mnt
+	media
+1
+D/
+	mnt
+11
+D/mnt
+	photosA
+2
+D/mnt/photosA
+	2015
+12
+D/mnt/photosA/2015
+	100MSDCF
+1
+D/mnt/photosA/2015/100MSDCF
+	DSC03171.JPG
+58
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+/nfs
+/pyt
+/tr
+
+# Prompt history (oldest to newest):
+pss
+ps
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/dave/.vifm/Trash/000_vSPD_out_00.csv
+	/home/dave/python/vSPD_out_00.csv
+t/home/dave/.vifm/Trash/000_102MSDCF
+	/mnt/photosA/2014/102MSDCF/102MSDCF
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
