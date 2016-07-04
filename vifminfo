@@ -6,13 +6,13 @@
 	..
 1418893985
 'b
-	/home/dave/bin/
+	/home/humed/bin/
 	..
-1418893985
+1429677576
 'h
-	/home/dave/
+	/home/humed/
 	..
-1418893985
+1429677576
 'z
 	/home/dave/.vifm
 	..
@@ -24,214 +24,10 @@ q0
 v2
 ov
 m-1
-l2
+l11,2
 r2
 
 # Left window history (oldest to newest):
-d/home/dave
-	Templates
-9
-d/home/dave/Templates
-	..
-0
-d/home/dave
-	Videos
-10
-d/home/dave/Videos
-	..
-0
-d/home/dave
-	bitcoinbook
-11
-d/home/dave/bitcoinbook
-	..
-0
-d/home/dave
-	dogecoin
-13
-d/home/dave/dogecoin
-	..
-0
-d/home/dave
-	hma
-14
-d/home/dave/hma
-	..
-0
-d/home/dave
-	hostsblock
-15
-d/home/dave/hostsblock
-	..
-0
-d/home/dave
-	jffs
-16
-d/home/dave/jffs
-	..
-0
-d/home/dave
-	jffs_backup
-17
-d/home/dave/jffs_backup
-	..
-0
-d/home/dave
-	n66u
-18
-d/home/dave/n66u
-	..
-0
-d/home/dave
-	nfs
-19
-d/home/dave/nfs
-	..
-0
-d/home/dave
-	octopress
-20
-d/home/dave/octopress
-	..
-0
-d/home/dave
-	pelican
-21
-d/home/dave/pelican
-	..
-0
-d/home/dave
-	pelican-themes
-22
-d/home/dave/pelican-themes
-	..
-0
-d/home/dave
-	pioneer
-23
-d/home/dave/pioneer
-	..
-0
-d/home/dave
-	pkg
-24
-d/home/dave/pkg
-	..
-0
-d/home/dave
-	powerline
-25
-d/home/dave/powerline
-	..
-0
-d/home/dave
-	python
-26
-d/home/dave/python
-	..
-0
-d/home/dave
-	rt-n66u
-27
-d/home/dave/rt-n66u
-	..
-0
-d/home/dave
-	src
-28
-d/home/dave/src
-	..
-0
-d/home/dave
-	syncthing
-29
-d/home/dave/syncthing
-	..
-0
-d/home/dave
-	therion
-30
-d/home/dave/therion
-	..
-0
-d/home/dave
-	tmux
-31
-d/home/dave/tmux
-	..
-0
-d/home/dave
-	vifm
-32
-d/home/dave/vifm
-	..
-0
-d/home/dave
-	vpn
-33
-d/home/dave/vpn
-	..
-0
-d/home/dave
-	wallet_backups
-34
-d/home/dave/wallet_backups
-	doge
-1
-d/home/dave/wallet_backups/doge
-	..
-0
-d/home/dave/wallet_backups
-	doge
-1
-d/home/dave
-	wallet_backups
-34
-d/home
-	dave
-1
-d/
-	bin
-0
-d/bin
-	..
-0
-d/
-	mnt
-11
-d/mnt
-	..
-0
-d/
-	mnt
-11
-d/mnt
-	..
-0
-d/
-	mnt
-11
-d/mnt
-	media
-1
-d/mnt/media
-	books
-3
-d/mnt/media/books
-	..
-0
-d/mnt/media
-	books
-3
-d/mnt
-	media
-1
-d/mnt/media
-	torrent
-7
-d/mnt/media/torrent
-	incomplete
-2
 d/mnt/media/torrent/incomplete
 	..
 0
@@ -328,253 +124,545 @@ d/home/dave
 d/home/dave/Downloads
 	Belle.E.Sebastien.2013.iTALiAN.MD.BDRip.XviD-BmA.srt
 20
+d/home
+	humed
+1
+d/home/humed
+	python
+11
+d/home/humed/python
+	trace
+38
+d/home/humed/python/trace
+	trace_GDX
+3
+d/home/humed/python/trace/trace_GDX
+	Input
+1
+d/home/humed/python/trace/trace_GDX/Input
+	..
+0
+d/home/humed/python/trace/trace_GDX
+	Input
+1
+d/home/humed/python/trace
+	trace_GDX
+3
+d/home/humed/python
+	trace
+38
+d/home/humed
+	quick_markdown_test
+13
+d/home
+	humed
+1
+d/
+	media
+9
+d/media
+	humed
+2
+d/media/humed
+	SEAGATE
+3
+d/media/humed/SEAGATE
+	SDPQ
+2
+d/media/humed/SEAGATE/SDPQ
+	
+2
+d/media/humed
+	HZ Data
+3
+d/media
+	humed
+2
+d/media/humed
+	SEAGATE
+4
+d/media/humed/SEAGATE
+	..
+0
+d/media/humed
+	Seagate Expansion Drive
+5
+d/media/humed/Seagate Expansion Drive
+	..
+0
+d/media/humed
+	SEAGATE
+4
+d/media/humed/SEAGATE
+	..
+0
+d/media/humed
+	SEAGATE
+4
+d/media/humed/SEAGATE
+	SDS
+3
+d/media/humed/SEAGATE/SDS
+	MSS_311222012052200621_0X.ZIP
+55
+d/media/humed/SEAGATE
+	
+55
+d/media/humed
+	HZ Data
+2
+d/media
+	humed
+2
+d/
+	home
+5
+d/home
+	humed
+1
+d/home/humed
+	waitaki_home
+29
+d/home/humed/waitaki_home
+	etc
+4
+d/home/humed/waitaki_home/etc
+	..
+0
+d/home/humed/waitaki_home
+	home
+5
+d/home/humed/waitaki_home/home
+	dave
+2
+d/home/humed/waitaki_home/home/dave
+	humed
+1
+d/home/humed/waitaki_home/home/dave/humed
+	python
+25
+d/home/humed/waitaki_home/home/dave/humed/python
+	notebooks
+25
+d/home/humed/waitaki_home/home/dave/humed/python/notebooks
+	PRMA Genbase5 analysis.pdf.old
+27
+d/home/humed/waitaki_home/home/dave/humed/python
+	notebooks
+25
+d/home/humed/waitaki_home/home/dave/humed
+	python
+25
+d/home/humed/waitaki_home/home/dave
+	humed
+1
+d/home/humed/waitaki_home/home
+	dave
+2
+d/home/humed/waitaki_home
+	home
+5
+d/home/humed
+	waitaki_home
+29
+d/home
+	humed
+1
+d/home/humed
+	waitaki_home
+29
+d/home/humed/waitaki_home
+	home
+5
+d/home/humed/waitaki_home/home
+	humed
+5
+d/home/humed/waitaki_home/home/humed
+	python
+17
+d/home/humed/waitaki_home/home/humed/python
+	notebooks
+9
+d/home/humed/waitaki_home/home/humed
+	python
+17
+d/home/humed/waitaki_home/home
+	humed
+5
+d/home/humed/waitaki_home
+	media
+10
+d/home/humed/waitaki_home/media
+	usb
+4
+d/home/humed/waitaki_home/media/usb
+	notebooks
+5
+d/home/humed/waitaki_home/media/usb/notebooks
+	Dave
+3
+d/home/humed/waitaki_home/media/usb/notebooks/Dave
+	..
+0
+d/home/humed/waitaki_home/media/usb/notebooks
+	Dave
+3
+d/home/humed/waitaki_home/media/usb/notebooks/Dave
+	calls_20160111.csv
+15
+d/home/humed/waitaki_home/media/usb/notebooks
+	Dave
+3
+d/home/humed/waitaki_home/media/usb
+	notebooks
+5
+d/home/humed/waitaki_home/media
+	usb
+4
+d/home/humed/waitaki_home
+	media
+10
+d/home/humed
+	Downloads
+3
+d/home/humed/Downloads
+	meridian_prospectus_20130920.pdf
+36
 d
 
 # Right window history (oldest to newest):
-D/home/dave/vifm
-	autom4te.cache
+D/home/humed/walter_home/python/pivot
+	MERI
 1
-D/home/dave
-	nfs
-19
-D/home
-	dave
-1
-D/
-	media
-10
-D/media
-	..
-0
-D/
-	mnt
-11
-D/mnt
-	..
-0
-D/
-	media
-10
-D/media
-	dave
-1
-D/media/dave
-	CANON_DC
-1
-D/media/dave/CANON_DC
-	..
-0
-D/media/dave
-	CANON_DC1
+D/home/humed/walter_home/python/pivot/MERI
+	munge.sh
+86
+D/home/humed/walter_home/python/pivot
+	pivotMW
 2
-D/media/dave/CANON_DC1
-	
-2
-D/media/dave
+D/home/humed/walter_home/python/pivot/pivotMW
 	..
 0
-D/media
-	dave
-1
-D/media/dave
-	CANON_DC
-1
-D/media/dave/CANON_DC
-	..
-0
-D/media/dave
-	CANON_DC
-1
-D/media
-	dave
-1
-D/media/dave
-	CANON_DC1
-2
-D/media/dave/CANON_DC1
-	Trombone Shorty - Say That To Say This 2013 320kbps CBR MP3 [VX] [P2PDL]
-26
-D/media/dave/CANON_DC1/Trombone Shorty - Say That To Say This 2013 320kbps CBR MP3 [VX] [P2PDL]
-	..
-0
-D/media/dave/CANON_DC1
-	Trombone Shorty- (2010) Backatown
-27
-D/media/dave/CANON_DC1/Trombone Shorty- (2010) Backatown
-	..
-0
-D/media/dave/CANON_DC1
-	Trombone Shorty- (2010) Backatown
-27
-D/media/dave/CANON_DC1/Trombone Shorty- (2010) Backatown
-	01 Hurricane season.mp3
-1
-D/media/dave/CANON_DC1
-	roald dahl
-28
-D/media/dave/CANON_DC1/roald dahl
-	..
-0
-D/media/dave/CANON_DC1
-	roald dahl
-32
-D/media/dave
-	CANON_DC1
-2
-D/media/dave/CANON_DC1
-	simon & Garfunkel
-37
-D/media/dave
-	CANON_DC1
-2
-D/media/dave/CANON_DC1
-	talking heads
-49
-D/media/dave
-	..
-0
-D/media
-	..
-0
-D/
-	mnt
-11
-D/mnt
-	photosA
-2
-D/mnt/photosA
-	2014
-11
-D/mnt/photosA/2014
-	102MSDCF
+D/home/humed/walter_home/python/pivot
+	results
 3
-D/mnt/photosA/2014/102MSDCF
-	102MSDCF
+D/home/humed/walter_home/python/pivot/results
+	nett
 1
-D/mnt/photosA/2014/102MSDCF/102MSDCF
+D/home/humed/walter_home/python/pivot/results/nett
 	..
 0
-D/mnt/photosA/2014/102MSDCF
-	DSC01582.JPG
+D/home/humed/walter_home/python/pivot/results
+	nett
+1
+D/home/humed/walter_home/python/pivot
+	vSPD
 4
-D/mnt/photosA/2014
-	102MSDCF
+D/home/humed/walter_home/python/pivot/vSPD
+	..
+0
+D/home/humed/walter_home/python/pivot
+	vSPD
+4
+D/home/humed/walter_home/python
+	2014_grid_emergencies
+1
+D/home/humed/walter_home/python/2014_grid_emergencies
+	..
+0
+D/home/humed/walter_home/python
+	index2.html
+49
+D/home/humed/walter_home
+	Input
+5
+D/home/humed
+	2014 Grid.xlsx
+20
+D/home
+	humed
+1
+D/
+	home
+5
+D/home
+	humed
+1
+D/
+	home
+5
+D/home
+	humed
+1
+D/home/humed
+	Downloads
 3
-D/mnt/photosA
-	2014
-11
-D/mnt/photosA/2014
-	102MSDCF
+D/home/humed/Downloads
+	ncdump(1)
+67
+D/home/humed
+	Downloads
 3
-D/mnt/photosA/2014/102MSDCF
-	DSC01582.JPG
-16
-D/mnt/photosA/2014
-	102MSDCF
-3
-D/mnt/photosA
-	2014
+D/home
+	humed
+1
+D/
+	media
+10
+D/media
+	humed
+2
+D/media/humed
+	HZ Data
+1
+D/media
+	P
+1
+D/media/P
+	..
+0
+D/media
+	humed
+2
+D/media/humed
+	HZ Data
+1
+D/media
+	humed
+2
+D/
+	mnt
 11
 D/mnt
-	photosA
+	..
+0
+D/
+	media
+10
+D/media
+	P
+1
+D/media/P
+	Dave
+46
+D/media/P/Dave
+	asx
+11
+D/media/P/Dave/asx
+	data
+1
+D/media/P/Dave/asx/data
+	..
+0
+D/media/P/Dave/asx
+	data
+1
+D/media/P/Dave
+	asx
+11
+D/media/P
+	Dave
+46
+D/media/P/Dave
+	asx
+11
+D/media/P/Dave/asx
+	data
+1
+D/media/P/Dave
+	asx
+11
+D/media/P
+	Dave
+46
+D/media
+	P
+1
+D/
+	home
+5
+D/home
+	humed
+1
+D/home/humed
+	Downloads
+3
+D/home
+	humed
+1
+D/
+	home
+5
+D/home
+	humed
+1
+D/home/humed
+	python
+27
+D/home/humed/python
+	investigations
+21
+D/home/humed/python/investigations
+	003_20131203
+3
+D/home/humed/python/investigations/003_20131203
+	CTCT_NI_offer_plant.png
+2
+D/home/humed/python/investigations
+	004_20131205
+4
+D/home/humed/python/investigations/004_20131205
+	CTCT_NI_offer_plant.png
+5
+D/home/humed/python/investigations
+	004_20131205
+4
+D/home/humed/python
+	investigations
+21
+D/home/humed
+	python
+27
+D/home
+	humed
+1
+D/
+	media
+10
+D/media
+	humed
+2
+D/media/humed
+	ADATA UFD
+1
+D/media/humed/ADATA UFD
+	..
+0
+D/media/humed
+	ADATA UFD
+1
+D/media/humed/ADATA UFD
+	..
+0
+D/media/humed
+	ADATA UFD
+1
+D/media
+	humed
 2
 D/
 	media
 10
 D/media
-	dave
-1
-D/media/dave
-	85F0-18FB
-1
-D/media/dave/85F0-18FB
-	eBooks
-8
-D/media/dave/85F0-18FB/eBooks
-	Alice Shanks
-1
-D/media/dave
-	..
-0
-D/media
-	dave
-1
-D/
-	mnt
-11
-D/mnt
-	media
-1
-D/mnt/media
-	torrent
-7
-D/mnt/media/torrent
-	completed
-1
-D/mnt/media/torrent/completed
-	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
-1
-D/mnt/media/torrent/completed/Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
-	..
-0
-D/mnt/media/torrent/completed
-	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
-1
-D/mnt/media/torrent/completed/Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
-	BES-ETRG.nfo
-1
-D/mnt/media/torrent/completed
-	Belle et Sebastien[2013]BRRip XviD[French]-SaM[ETRG]
-1
-D/mnt/media/torrent
-	completed
-1
-D/mnt/media
-	torrent
-7
-D/mnt
-	media
-1
-D/
-	mnt
-11
-D/mnt
-	photosA
+	humed
 2
-D/mnt/photosA
-	2015
-12
-D/mnt/photosA/2015
-	100MSDCF
+D/media/humed
+	ADATA UFD
 1
-D/mnt/photosA/2015/100MSDCF
-	DSC03171.JPG
-58
+D/media/humed/ADATA UFD
+	..
+0
+D/media/humed
+	ADATA UFD
+1
+D/media
+	humed
+2
+D/
+	mnt
+11
+D/mnt
+	..
+0
+D/
+	home
+5
+D/home
+	humed
+1
+D/home/humed
+	EEA Conference
+4
+D/home/humed/EEA Conference
+	EEA2013
+8
+D/home/humed/EEA Conference/EEA2013
+	pics
+3
+D/home/humed/EEA Conference/EEA2013/pics
+	..
+0
+D/home/humed/EEA Conference/EEA2013
+	david_hume.JPG
+41
+D/home/humed/EEA Conference
+	EEA2013
+8
+D/home/humed
+	EEA Conference
+4
+D/home
+	humed
+1
+D/home/humed
+	..
+0
+D/home
+	humed
+1
+D/
+	home
+5
+D/home
+	humed
+1
+D/home/humed
+	cavemaps
+13
+D/home/humed/cavemaps
+	NI
+1
+D/home/humed/cavemaps/NI
+	3. Contents.pdf
+3
+D/home/humed/cavemaps
+	NI
+1
+D/home/humed/cavemaps/NI
+	Bouquave, Waipu.pdf
+4
 D
 
 # Command line history (oldest to newest):
+:mkdir predispatch
+:wq
+:mkdir test
+:sort
+:rename
 :q
 
 # Search history (oldest to newest):
 /nfs
 /pyt
 /tr
+/puts
+/call
+/Gar
+/pot
 
 # Prompt history (oldest to newest):
 pss
 ps
+po
 
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/humed/Downloads/meridian_prospectus_20130920.pdf
 
 # Directory stack (oldest to newest):
 
 # Trash content:
-t/home/dave/.vifm/Trash/000_vSPD_out_00.csv
-	/home/dave/python/vSPD_out_00.csv
-t/home/dave/.vifm/Trash/000_102MSDCF
-	/mnt/photosA/2014/102MSDCF/102MSDCF
 
 # State:
 f
